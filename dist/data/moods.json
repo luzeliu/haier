@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "img": "http://image.haier.com/cn/cooling/W020190917794628145760_580.png",
+            "title": "477升风冷变频十字对开门冰箱",
+            "model": "BCD-477WDPCU1",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/cooling/W020191114561818015020_580.png",
+            "title": "520升风冷变频对开门冰箱",
+            "model": "BCD-520WDPD",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/cooling/W020191114648079562673_580.png",
+            "title": "223升风冷变频三门冰箱",
+            "model": "BCD-223WDPT",
+            "sen": "./images/paihang3.png"
+        }
+    ],
+    [
+        {
+            "img": "http://image.haier.com/cn/laundry/W020191120332852124787_580.png    ",
+            "title": "9公斤变频滚筒洗烘一体机",
+            "model": "XQG90-14HB30SU1JD",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/laundry/W020191119585600898751_580.png",
+            "title": "10公斤变频滚筒洗衣机",
+            "model": "EG10012B509G",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/laundry/W020191118557625967449_580.png",
+            "title": "10公斤水晶变频洗烘一体机",
+            "model": "EG10014HBD979U1",
+            "sen": "./images/paihang3.png"
+        }
+    ],
+    [
+        {
+            "img": "http://image.haier.com/cn/air_conditioners/W020191211342593784919_580.png",
+            "title": "先行者 2匹柜式定频空调",
+            "model": "KFR-50LW/08EDS33",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/air_conditioners/W020191121562272338842_580.png",
+            "title": "致樽 3匹柜式变频空调",
+            "model": "KFR-72LW/07UDP21AU1",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/air_conditioners/W020190917347507106829_580.png",
+            "title": "节能风 1.5匹壁挂式变频空调",
+            "model": "KFR-35GW/03JDM81A",
+            "sen": "./images/paihang3.png"
+        }
+    ],
+    [
+        {
+            "img": "http://image.haier.com/cn/water_heaters/drsq/W020191224483836905483_580.png",
+            "title": "60升3D速热横式电热水器",
+            "model": "EC6005-JX",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/water_heaters/drsq/W020191224385792259061_580.png",
+            "title": "80升变频速热横式电热水器",
+            "model": "EC8002-Q6(SJ)",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/water_heaters/rqrsq/W020200413548220119774_580.png",
+            "title": "16升多频恒温燃气热水器",
+            "model": "JSQ31-16JM6(12T)U1",
+            "sen": "./images/paihang3.png"
+        }
+    ],
+    [
+        {
+            "img": "http://image.haier.com/cn/televisions/W020191219563653028544_580.png",
+            "title": "海尔75英寸智能电视",
+            "model": "LU75C51",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/televisions/W020200120408415393381_580.png",
+            "title": "海尔65英寸高清智能电视",
+            "model": "LU65D31J",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/televisions/W020200117524765415671_580.png",
+            "title": "海尔55英寸高清智能电视",
+            "model": "LU55D31J",
+            "sen": "./images/paihang3.png"
+        }
+    ],
+    [
+        {
+            "img": "http://image.haier.com/cn/kitchen_appliances/xyyj/W020191217568338378066_580.png",
+            "title": "近吸式三速电子触摸按键吸油烟机",
+            "model": "CXW-200-E900T6(J)",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/kitchen_appliances/xyyj/W020200109578107276264_580.png",
+            "title": "欧式二速电子-触摸按键吸油烟机",
+            "model": "CXW-219-T2903UD",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/kitchen_appliances/xyyj/W020191216519909170928_580.png",
+            "title": "自净芯三速电子-触摸按键吸油烟机",
+            "model": "CXW-219-T3J07",
+            "sen": "./images/paihang3.png"
+        }
+    ],
+    [
+        {
+            "img": "http://image.haier.com/cn/kitchen_appliances/rqz/W020191204538273551273_580.png",
+            "title": "4.2kW台嵌两用钢化玻璃燃气灶",
+            "model": "JZT-QE5B0(12T)",
+            "sen": "./images/paihang.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/kitchen_appliances/rqz/W020191216546809845132_580.png",
+            "title": "4.5kW台嵌两用钢化玻璃燃气灶",
+            "model": "JZT-QHA93C(12T)",
+            "sen": "./images/paihang2.png"
+        },
+        {
+            "img": "http://image.haier.com/cn/kitchen_appliances/rqz/W020191216507185113337_580.png",
+            "title": "4.1kW嵌入式熄火保护燃气灶",
+            "model": "JZT-QE5B1(12T)",
+            "sen": "./images/paihang3.png"
+        }
+    ]
+]
